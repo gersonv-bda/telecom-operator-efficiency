@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Python basura
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datos pesados (opcional, si decides no subir los CSV originales)
+# data/*.csv
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

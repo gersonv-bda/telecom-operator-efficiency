@@ -1,0 +1,8 @@
+day_of_week,hour,total_calls,missed_calls
+Friday,0,7126,2430
+Monday,0,6975,2392
+Saturday,0,2269,736
+Sunday,0,1638,526
+Thursday,0,8005,2742
+Tuesday,0,7751,2630
+Wednesday,0,7782,2654
